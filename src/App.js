@@ -15,7 +15,7 @@ function App (props: AppProps) {
 
         return (
             <div className="App">
-                <BrowserRouter>
+
                 <Switch>
                     <Route
                         exact
@@ -55,7 +55,7 @@ function App (props: AppProps) {
                     />
 
                 </Switch>
-                </BrowserRouter>
+
                 <p> 2019SpaceAppsChallenge.</p>
             </div>
         );
