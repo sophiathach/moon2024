@@ -9,10 +9,10 @@ function Colony1 (props: Colony1Props) {
 
         return (
             <>
-                <header className="App-header">
+                <body className="App-header">
                     <img width="100%" src={colony1} onClick={handleClick}/>
                     <audio autoPlay loop src={whiteNoise}/>
-                </header>
+                </body>
             </>
         );
 

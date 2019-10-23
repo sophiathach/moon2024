@@ -14,7 +14,7 @@ function SpaceChoice(props: SpaceChoiceProps){
 
     return (
         <>
-            <header className="App-header">
+            <body className="App-header">
                 <h2>Choose which colony we will explore!</h2>
                 <div className={'space'}>
                 <img src={spaceMan} className="door space0" alt="space-0" value="space-0"
@@ -22,7 +22,7 @@ function SpaceChoice(props: SpaceChoiceProps){
                 <img src={spaceMan2} className="door space1" alt="space-1" value="space-1"
                      onClick={handleClick}/>
                 </div>
-            </header>
+            </body>
         </>
     );
 

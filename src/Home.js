@@ -11,7 +11,7 @@ function Home (props: HomeProps) {
     const houston = new Audio(houstonAudio);
         return (
             <>
-                <header className="App-header">
+                <body className="App-header">
                     <h1> Welcome to our next journey</h1>
                     <h3> Choose where we should go</h3>
                 <div className="doorThing">
@@ -31,7 +31,7 @@ function Home (props: HomeProps) {
                          <p>ISS</p>
                     </div>
                     </div>
-                </header>
+                </body>
             </>
         );
 
