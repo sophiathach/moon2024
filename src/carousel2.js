@@ -38,15 +38,11 @@ function Carousel2 (props: Carousel1Props) {
                             <p className="legend">Legend 3</p>
                         </div>
                         <div>
-                            <img src={image5} />
+                            <img src={image6} />
                             <p className="legend">Legend 3</p>
                         </div>
                         <div>
-                            <img src={image5} />
-                            <p className="legend">Legend 3</p>
-                        </div>
-                        <div>
-                            <img src={image5} />
+                            <img src={image7} />
                             <p className="legend">Legend 3</p>
                         </div>
 
