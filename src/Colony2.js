@@ -10,7 +10,7 @@ function Colony2 (props: Colony2Props) {
         return (
             <>
                 <body className="App-header">
-                    <img width="100%" src={colony2}  onClick={handleClick}/>
+                    <img style="cursor: pointer;"width="100%" src={colony2}  onClick={handleClick}/>
                     <audio autoPlay loop src={whiteNoise}/>
                 </body>
             </>

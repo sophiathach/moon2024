@@ -13,7 +13,7 @@ import { Carousel } from 'react-responsive-carousel';
 interface Carousel2Props {
     history: History;
 }
-function Carousel2 (props: Carousel1Props) {
+function Carousel2 (props: Carousel2Props) {
 
         return (
             <>
