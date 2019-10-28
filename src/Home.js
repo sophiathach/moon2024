@@ -12,6 +12,7 @@ function Home (props: HomeProps) {
         return (
             <>
                 <body className="App-header">
+                <h1> Adventure Portal </h1>
                     <h1> Welcome to our next journey</h1>
                     <h3> Choose where we should go</h3>
                 <div className="doorThing">
