@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "490b152f10d910e2be7fdeef3cea31e0",
+    "revision": "b6c21751e5f67347f42502a92eb90960",
     "url": "/moon2024/index.html"
   },
   {
-    "revision": "34ec370ce8d4497414db",
+    "revision": "7a294aa97093e6c5226b",
     "url": "/moon2024/static/css/2.3c1ddb0a.chunk.css"
   },
   {
-    "revision": "7b0b69a49f26f0fb1e05",
-    "url": "/moon2024/static/css/main.3c39c028.chunk.css"
+    "revision": "0e6cbf6a0e19f409fbc1",
+    "url": "/moon2024/static/css/main.52341992.chunk.css"
   },
   {
-    "revision": "34ec370ce8d4497414db",
-    "url": "/moon2024/static/js/2.806a562b.chunk.js"
+    "revision": "7a294aa97093e6c5226b",
+    "url": "/moon2024/static/js/2.a6148ccd.chunk.js"
   },
   {
-    "revision": "7b0b69a49f26f0fb1e05",
-    "url": "/moon2024/static/js/main.87f80f8c.chunk.js"
+    "revision": "0e6cbf6a0e19f409fbc1",
+    "url": "/moon2024/static/js/main.5ea4faee.chunk.js"
   },
   {
     "revision": "16da7cfa81b4bf471202",
@@ -56,6 +56,22 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/moon2024/static/media/southpole2.01a690fa.jpeg"
   },
   {
+    "revision": "2e31071fddb78147d7922979baaf45a9",
+    "url": "/moon2024/static/media/southpole3.2e31071f.jpeg"
+  },
+  {
+    "revision": "955f696d0c932b48c6e79acdae0bdb32",
+    "url": "/moon2024/static/media/southpole4.955f696d.jpeg"
+  },
+  {
+    "revision": "97594c87cf786cb79237365b9ffc1d5a",
+    "url": "/moon2024/static/media/southpole5.97594c87.jpeg"
+  },
+  {
+    "revision": "458f8b7b6c78ac0b6521d006711f0474",
+    "url": "/moon2024/static/media/southpole6.458f8b7b.jpeg"
+  },
+  {
     "revision": "f317fc07a34d30c76763074921747b8b",
     "url": "/moon2024/static/media/spaceman1.f317fc07.png"
   },
@@ -76,7 +92,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/moon2024/static/media/white_noise.22c40db6.mp3"
   },
   {
-    "revision": "dabbd66ad3870f7ad38e47e40581ab74",
-    "url": "/moon2024/static/media/whole_story.dabbd66a.mp3"
+    "revision": "7f53df6a0edfab00e260d2bb1a2c1867",
+    "url": "/moon2024/static/media/whole_story.7f53df6a.mp3"
   }
 ]);

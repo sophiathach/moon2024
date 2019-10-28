@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/moon2024/static/css/main.3c39c028.chunk.css",
-    "main.js": "/moon2024/static/js/main.87f80f8c.chunk.js",
-    "main.js.map": "/moon2024/static/js/main.87f80f8c.chunk.js.map",
+    "main.css": "/moon2024/static/css/main.52341992.chunk.css",
+    "main.js": "/moon2024/static/js/main.5ea4faee.chunk.js",
+    "main.js.map": "/moon2024/static/js/main.5ea4faee.chunk.js.map",
     "runtime-main.js": "/moon2024/static/js/runtime-main.7fda05b4.js",
     "runtime-main.js.map": "/moon2024/static/js/runtime-main.7fda05b4.js.map",
     "static/css/2.3c1ddb0a.chunk.css": "/moon2024/static/css/2.3c1ddb0a.chunk.css",
-    "static/js/2.806a562b.chunk.js": "/moon2024/static/js/2.806a562b.chunk.js",
-    "static/js/2.806a562b.chunk.js.map": "/moon2024/static/js/2.806a562b.chunk.js.map",
+    "static/js/2.a6148ccd.chunk.js": "/moon2024/static/js/2.a6148ccd.chunk.js",
+    "static/js/2.a6148ccd.chunk.js.map": "/moon2024/static/js/2.a6148ccd.chunk.js.map",
     "index.html": "/moon2024/index.html",
-    "precache-manifest.d6077cb39e65b730a64832b9aa09e8f3.js": "/moon2024/precache-manifest.d6077cb39e65b730a64832b9aa09e8f3.js",
+    "precache-manifest.21bfd2387ed1c10542750a7263465cdd.js": "/moon2024/precache-manifest.21bfd2387ed1c10542750a7263465cdd.js",
     "service-worker.js": "/moon2024/service-worker.js",
     "static/css/2.3c1ddb0a.chunk.css.map": "/moon2024/static/css/2.3c1ddb0a.chunk.css.map",
-    "static/css/main.3c39c028.chunk.css.map": "/moon2024/static/css/main.3c39c028.chunk.css.map",
+    "static/css/main.52341992.chunk.css.map": "/moon2024/static/css/main.52341992.chunk.css.map",
     "static/media/Houston.mp3": "/moon2024/static/media/Houston.e0688e2e.mp3",
     "static/media/Ready.mp3": "/moon2024/static/media/Ready.d88d08e0.mp3",
     "static/media/colony1.png": "/moon2024/static/media/colony1.aea72b77.png",
@@ -21,18 +21,22 @@
     "static/media/earthfrommoon.jpeg": "/moon2024/static/media/earthfrommoon.d77175d3.jpeg",
     "static/media/southpole1.jpeg": "/moon2024/static/media/southpole1.147514a3.jpeg",
     "static/media/southpole2.jpeg": "/moon2024/static/media/southpole2.01a690fa.jpeg",
+    "static/media/southpole3.jpeg": "/moon2024/static/media/southpole3.2e31071f.jpeg",
+    "static/media/southpole4.jpeg": "/moon2024/static/media/southpole4.955f696d.jpeg",
+    "static/media/southpole5.jpeg": "/moon2024/static/media/southpole5.97594c87.jpeg",
+    "static/media/southpole6.jpeg": "/moon2024/static/media/southpole6.458f8b7b.jpeg",
     "static/media/spaceman1.png": "/moon2024/static/media/spaceman1.f317fc07.png",
     "static/media/spaceman2.png": "/moon2024/static/media/spaceman2.650d29da.png",
     "static/media/tranquility.jpeg": "/moon2024/static/media/tranquility.40d888e3.jpeg",
     "static/media/tranquility2.jpeg": "/moon2024/static/media/tranquility2.c6a4c579.jpeg",
     "static/media/white_noise.mp3": "/moon2024/static/media/white_noise.22c40db6.mp3",
-    "static/media/whole_story.mp3": "/moon2024/static/media/whole_story.dabbd66a.mp3"
+    "static/media/whole_story.mp3": "/moon2024/static/media/whole_story.7f53df6a.mp3"
   },
   "entrypoints": [
     "static/js/runtime-main.7fda05b4.js",
     "static/css/2.3c1ddb0a.chunk.css",
-    "static/js/2.806a562b.chunk.js",
-    "static/css/main.3c39c028.chunk.css",
-    "static/js/main.87f80f8c.chunk.js"
+    "static/js/2.a6148ccd.chunk.js",
+    "static/css/main.52341992.chunk.css",
+    "static/js/main.5ea4faee.chunk.js"
   ]
 }
